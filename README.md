@@ -1,3 +1,3 @@
 # GitDemo12
 This is first git
-Author - kunal malik
+Author - kunal malik [Bit meerut]
